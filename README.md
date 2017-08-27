@@ -1,1 +1,1 @@
-# hexedit-bitmapper
+# hexedit-bitpic-patch
