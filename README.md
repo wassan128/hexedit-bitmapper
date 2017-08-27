@@ -9,4 +9,4 @@ hexedit patch for me
 4. make
 5. ./hexedit --color
 
-ref ->  https://kozos.jp/patch/hexedit/
+ref ->  http://kozos.jp/patch/hexedit/
